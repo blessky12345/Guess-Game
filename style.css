@@ -1,0 +1,100 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: tahoma;
+}
+
+h1{
+	text-align: center;
+	margin-top: 20px;
+	font-weight: 700;
+	font-family: tahoma;
+	margin-bottom: 10px;
+}
+.headername{
+	color: red;
+}
+.headername2{
+	color: green;
+}
+.headername3{
+	color: yellow;
+	/* text-shadow: 210px black; */
+}
+.ENJoY{
+	color: red;
+	font-weight: bold;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	/*font-style: bold;*/
+	margin-bottom: 20px;
+	text-shadow: 20px;
+	background-color: yellow;
+}
+.container{
+	margin-left: 50px;
+	margin-right: 50px;
+	text-align: center;
+	border: 2 solid;
+	font-size: 16px;
+	font-weight: bold;
+	background-color: pink;
+	border-radius: 10px;
+	box-shadow: 10px 10px 10px 10px black;
+}
+.container p{
+	padding-top: 10px;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+.form{
+	margin-top: 20px;
+
+}
+.guessFieldlab{
+	color: purple;
+	/* padding-bottom: 0px; */
+}
+.guessField{
+	width: 200px;
+	height: 35px;
+	color: red;
+	/* border: 5px; */
+	border-color: purple; 
+	border-radius: 30px;
+	font-size: 20px;
+	text-align: center;
+	/*padding-right: 10px;*/
+	margin-left: 10px;
+	margin-top: 10px;
+}
+.guessField :hover{
+	border: none;
+}
+
+.btn{
+	margin-top: 20px;
+	margin-bottom: 10px;
+	width: 150px;
+	height: 45px;
+	color: white;
+	font-weight: bold;
+	background-color: purple;
+	font-size: 15px;
+	border-radius: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	box-shadow: 5px 5px 5px 5px black;
+}
+.guesses{
+	margin-top: 5px;
+	padding-bottom: 10px;
+}
+.lastResult{
+	margin-top: 10px;
+	padding-bottom: 10px;
+}
+.lowOrHi{
+	margin-top: 3px;
+	padding-bottom: 10px;
+}
